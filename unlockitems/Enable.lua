@@ -1,0 +1,5 @@
+[ENABLE]
+{$lua}
+
+{$asm}
+[DISABLE]
